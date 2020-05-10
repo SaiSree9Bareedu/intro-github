@@ -1,1 +1,1 @@
-# intro-github
+# pandas fundamentals and basic applications intro
