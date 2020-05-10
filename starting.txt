@@ -1,1 +1,1 @@
-Starting with fundas demo
+Starting with Pandas fundamentals and applications intro
